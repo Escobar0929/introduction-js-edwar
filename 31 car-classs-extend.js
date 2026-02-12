@@ -23,7 +23,6 @@ console.log(car1.run());
 class BasicCar extends Fullcar {
     constructor(brand, color, model, id){
         super(brand, color, model, id)
-        
 
     };
 
